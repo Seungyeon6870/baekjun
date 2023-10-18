@@ -6,7 +6,7 @@ int main(void) {
 
     scanf("%ld", &n);
 
-    printf("%ld\n", 4 * n);
+    printf("%ld\n2\n", n * n);
 
     return 0;
 }
