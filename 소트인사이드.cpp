@@ -3,13 +3,13 @@
 
 int main(void) {
 
-    char arr[1000000000] = {};
-    char a, b, temp;
+    char arr[11] = {};
+    char temp;
     int cnt = 0;
 
     scanf("%s", arr);
     
-    while (true) {
+    while (1) {
 
         for (int i = 0; i < strlen(arr) - 1; i++) {
 
